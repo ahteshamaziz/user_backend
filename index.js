@@ -38,8 +38,8 @@ app.use(cors({origin: [
 
 
 aws.config.update({
-    secretAccessKey:'Jr33MgXBSxn+bD1MvusjD1vWzf/8WYPk53fT9dh8',
-    accessKeyId:'AKIAINJY3AKNKA2Y54HQ',
+    secretAccessKey:'************',
+    accessKeyId:'********',
     region:'us-east-1'
 })
 
